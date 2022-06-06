@@ -1,0 +1,27 @@
+body {
+    background-color: #23272B;
+}
+
+.container {
+    width: 50% !important;
+}
+
+form {
+    background-color: #6c757d;
+    color: black !important;
+    font-weight: 200;
+}
+
+#login{
+    background-color: white;
+}
+p {
+    display: inline-block;
+}
+.text {
+    font-size: 28pt;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    text-transform: uppercase;
+}

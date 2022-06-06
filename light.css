@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    width: 50% !important;
+}
+
+p {
+    display: inline-block;
+}
+
+.text {
+    font-size: 28pt;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #23272B;
+    text-transform: uppercase;
+}
